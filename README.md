@@ -70,7 +70,7 @@
   <a href="https://www.linkedin.com/in/mahmoud-ahmed-9b884b286" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mahmoudmabrouk1016@gmail.com" target="_blank">
+  <a href="mailto:mahmoudmabrouk1016@gmail.com"  target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="+201279970553" target="_blank">
