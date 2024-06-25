@@ -56,7 +56,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mabrouk-16/mabrouk-16/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mabrouk-16/about-me/output/snake.svg" alt="Snake animation" />
 
 ###
 
